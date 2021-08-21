@@ -5,6 +5,8 @@
 
 For the PDF, click [here](https://raw.githubusercontent.com/m-usaid/CS424-Essay/main/cs424essay_UsaidRehman.pdf)
 .
+
+##### Summary:
 This is a short non-technical essay for the Joy of Theoretical Computer Science course
 taught at Habib University. The essay initially focuses on the the abstraction of mathematical
 theories and the structure of axiomatic systems. It then sheds light on 
